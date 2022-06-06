@@ -89,17 +89,17 @@ N/A
 
 - **Sprint board update:** Sprint board screenshotları: 
 
-![Backlog 1](
-![Backlog 1](
-![Backlog 1]
+![Backlog 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/backlog2.1.PNG)
+![Backlog 2](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/backlog2.2.PNG)
+![Backlog 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/backlog2.3.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Screenshot 1](
-![Screenshot 2](
-![Screenshot 3](
-![Screenshot 4](
-![Screenshot 5](
-![Screenshot 6]
+![Screenshot 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn1.jpeg)
+![Screenshot 2](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn2.jpeg)
+![Screenshot 3](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn3.jpeg)
+![Screenshot 4](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn4.jpeg)
+![Screenshot 5](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn5.jpeg)
+![Screenshot 6](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint2/%C3%BCr%C3%BCn6.jpeg)
 
 - **Sprint Review:** Alınan kararlar: terrainler oluşturulmuştur. karekter seçimi yapılıp karekter kodlanmaya başlanmıştır. Oyunun etkileşime gireceği nesneler seçilmiştir. Oyun sonu olan bölge tasarımı tamamlanmıştır. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
 
@@ -121,19 +121,19 @@ N/A
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz oynun kodlanması, animasyonların yapılmasına ilişkin olarak düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun kodlanması ve animasyonlae çıkan tahmin puanı, toplam puanla aynı olmuştur.
 
-- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats]()
+- **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/DailyScrumMeetingNotesSprint3.60.grup.docx)
 
 - **Sprint board update:** Sprint board screenshotları: 
 
-![Backlog 1]
-![Backlog 1]
-![Backlog 1](
+![Backlog 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/backlog3.1.PNG)
+![Backlog 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/backlog3.2.PNG)
+![Backlog 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/backlog3.3.PNG)
 - **Ürün Durumu**: Ekran görüntüleri:
-![Screenshot 1](
-![Screenshot 2](
-![Screenshot 3](
-![Screenshot 4](
-![Screenshot 5]()
+![Screenshot 1](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%201.jpeg)
+![Screenshot 2](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%202.jpeg)
+![Screenshot 3](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%203.jpeg)
+![Screenshot 4](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%204.jpeg)
+![Screenshot 5](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/%C3%BCr%C3%BCn%205.jpeg)
 
 - **Sprint Review:** Alınan kararlar: Oyunın kodları ve animasyonlaeı oluşturuldu. Animasyonlarda kullanılacak olan 2D tasarımlara karar verilmiştir. Oyunun karekterlerine ilişkin diyologlar yazılmış ve seslendirmeler yapılmıştır. Ana menü sayfası oluşturulmuştur. Ekstra koyulması gereken özellikler belirlenmiştir fakat zaman kısıtlamasından ötürü yapılmaması kararlaştırılmıştır. Sprint Review katılımcıları: Emirhan Yüksel, Melike Nur Köroğlu, Ayşe SUBAŞI, Oğuzhan Karacaoğlan, Şenay Dumantepe:
 
