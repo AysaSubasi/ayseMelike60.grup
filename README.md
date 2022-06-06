@@ -107,7 +107,7 @@ N/A
 
 - Oyun kodlanmasının önemine varıldı ve asıl sürecin kodlamalar ve ilşkilerinin önemli olduğunu anladık.
 - Oyunun son sahnesinin animayonla mı bitmeli yoksa oyuncuya mı bırakılmalı bunun kararı verilmeli.
-- Kodlama sürecine daha fazla zaman ayrılması gerektiği ve işbirlikli çalışmalanın önemi görüldü.
+- Kodlama sürecine daha fazla zaman ayrılması gerektiği ve işbirlikli çalışmaların önemi görüldü.
 
 ---
 ## Sprint3
@@ -119,7 +119,7 @@ N/A
 
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve son sprint'in daha çok oyunun kodlanması, animasyonlar ve entegre edilmesini oluşturması sebebiyle 80 puanın yeterli olacağına karar verildi.
 
-- **Backlog düzeni ve Story seçimleri:** Backlog'umuz oynun kodlanması, animasyonların yapılmasına ilişkin olarak düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun kodlanması ve animasyonlae çıkan tahmin puanı, toplam puanla aynı olmuştur.
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz oyunun kodlanması, animasyonların yapılmasına ilişkin olarak düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Oyun kodlanması ve animasyonlae çıkan tahmin puanı, toplam puanla aynı olmuştur.
 
 - **Daily Scrum:**  Daily Scrum toplantılarının zamansal sebeplerden ötürü  daha çok WhatsApp üzerinden iletişime geçildi. Alacağımız kritik kararlar için 2 günde bir sesli(Yeşil Renkli) 3 günde bir görüntülü (Kırmızı) olacak şekilde Discord üzerinden toplantılar düzenlendi. [Sprint 3 Daily Scrum Chats](https://github.com/AysaSubasi/ayseMelike60.grup/blob/main/ProjectManagement_Sprint3/DailyScrumMeetingNotesSprint3.60.grup.docx)
 
